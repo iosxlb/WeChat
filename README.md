@@ -1,8 +1,8 @@
 # [点此跳转纯净全权限微信ipa安装包](https://github.com/iosxlb/WeChat/releases/tag/WeChat_Dump)
 默认全权限纯净砸壳，仅做个人备份使用。
 
-### ✈分享频道： [@wxfx8](https://t.me/xlb00)                  
-### ✈交流群组： [@oncar2](https://t.me/xlb00) 
+### ✈分享频道： [@xlb00](https://t.me/xlb00)                  
+### ✈交流群组： [@xlb00](https://t.me/xlb00) 
 
 #### 免责声明
 * 项目内所涉及脚本、LOGO 仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；切勿使用项目做任何商业用途或牟利；
